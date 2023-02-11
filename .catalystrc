@@ -1,0 +1,29 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "2144000000003549",
+      "name": "sweet",
+      "domain": {
+        "id": "50012319859",
+        "name": "sweet-60019576493.development"
+      },
+      "env": [
+        {
+          "idx": 1,
+          "id": "60019576493",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}
